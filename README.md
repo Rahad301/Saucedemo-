@@ -1,0 +1,1 @@
+Saucedemo that is a e commerce website and well reknowed for testing practice. we have used selen, chomredrand java to write the test cases and successfully test the core functionalities of this website
